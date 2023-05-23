@@ -1,3 +1,7 @@
+#Niki Decker
+#CIS261
+#Retangle
+
 from dataclasses import dataclass
 
 @dataclass
